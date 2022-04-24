@@ -1,6 +1,6 @@
 # Algorithm
 
-Solving one algorithm problem every day(if possible..), which is in [Baekjoon], [HackerRank], and so on.  
+Solve one algorithm problem in one hour, if it is possible every day, which is in [Baekjoon], [HackerRank], and so on.  
 
 Language: Python
 
