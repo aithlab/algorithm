@@ -11,6 +11,6 @@ Fail - :heavy_multiplication_x:
 
 ## List
 - [:heavy_multiplication_x:] 26.Jan.2022 [#12899](https://www.acmicpc.net/problem/12899)
-- [:heavy_check_mark:] 24.Apr.2022 [#bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/)
+- [:heavy_check_mark:] 24.Apr.2022 [#Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/)
 
 
