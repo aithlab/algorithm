@@ -15,5 +15,5 @@ Fail - :heavy_multiplication_x:
 
 
 
-[Baekjoon](https://www.acmicpc.net/)
-[HackerRank](https://www.hackerrank.com/)
+[Baekjoon]: https://www.acmicpc.net/
+[HackerRank]: https://www.hackerrank.com/
